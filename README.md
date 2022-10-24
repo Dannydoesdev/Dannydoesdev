@@ -4,26 +4,34 @@
 - 🌱 I’m currently learning Next.JS + Firebase
 - 💞️ I’m looking to collaborate on unique projects I can improve my skills with
 - 📫 Find me @ www.danieltmcgee.com
+
+![github-header-image](https://user-images.githubusercontent.com/50442868/197509118-5c55c4ce-0284-4d15-8174-882c9ac73966.png)
 --->
 
+![github-header-image (1)](https://user-images.githubusercontent.com/50442868/197510055-046f470d-1456-4171-92b2-d2d7ce4d2ed4.png)
+
+<!---
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/50442868/197483135-674e54ee-222d-4772-be52-868a1b04d1a2.png">
  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/50442868/197484660-139de9f1-a571-4f89-9283-d686439f99f4.png">
  <img width="200" alt="My logo" src="https://user-images.githubusercontent.com/50442868/197483135-674e54ee-222d-4772-be52-868a1b04d1a2.png">
 </picture>
+--->
 
 <!---
 <img width="375" alt="My logo" src="https://user-images.githubusercontent.com/50442868/197483135-674e54ee-222d-4772-be52-868a1b04d1a2.png">
 --->
 
+<!---
 # 👋 Hi, I’m Danny
+--->
 
 <br>
 📫 Find me @ www.danieltmcgee.com<br>
 👀 I’m interested in full-stack development<br>
 🔭 I’m currently working on a portfolio building & sharing site (GitConnect)<br>
-👯 I’m looking to collaborate on unique projects that interest me<br>
-🤝 I’m looking for help with finding a software engineering role<br>
+👯 I’m looking to collaborate on unique projects that solve interesting problems<br>
+🤝 I’m looking for my first software engineering role<br>
 🌱 I’m currently learning Next.JS + Firebase<br>
 💬 Ask me about career changes in the product development space<br>
 ⚡ Fun fact - whales evolved from hippos, ie went ocean -> land -> ocean. Nature is whack
