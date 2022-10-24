@@ -6,7 +6,18 @@
 - 📫 Find me @ www.danieltmcgee.com
 --->
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/50442868/197483135-674e54ee-222d-4772-be52-868a1b04d1a2.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/50442868/197484660-139de9f1-a571-4f89-9283-d686439f99f4.png">
+ <img width="300" alt="My logo" src="https://user-images.githubusercontent.com/50442868/197483135-674e54ee-222d-4772-be52-868a1b04d1a2.png">
+</picture>
+
+<!---
+<img width="375" alt="My logo" src="https://user-images.githubusercontent.com/50442868/197483135-674e54ee-222d-4772-be52-868a1b04d1a2.png">
+--->
+
 # 💫 About Me:
+
 👋 Hi, I’m @Dannydoesdev (Daniel McGee)<br>
 📫 Find me @ www.danieltmcgee.com<br>
 👀 I’m interested in full-stack development<br>
@@ -47,3 +58,4 @@
 Dannydoesdev/Dannydoesdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
