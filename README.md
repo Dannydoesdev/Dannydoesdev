@@ -30,8 +30,8 @@
 📫 Find me @ www.danieltmcgee.com<br>
 👀 I’m interested in full-stack development<br>
 🔭 I’m currently working on a portfolio building & sharing site (GitConnect)<br>
-👯 I’m looking to collaborate on unique projects that solve interesting problems<br>
-🤝 I’m looking for software engineering roles (especially at impact driven companies)<br>
+👯 I’m open to collaborate on unique projects that solve interesting problems<br>
+🤝 I’m seeking software engineering roles (especially at impact driven companies)<br>
 🌱 I’m currently learning Next.JS + Firebase<br>
 💬 Ask me about career changes in the product development space<br>
 ⚡ Fun fact - whales evolved from hippos, ie went ocean -> land -> ocean. Nature is whack
