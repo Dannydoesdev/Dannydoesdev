@@ -33,12 +33,12 @@
 # 👋 Hi, I’m Danny
 --->
 <br>
-
+<!--- 🔭  I’m currently working on a portfolio building & sharing site for devs ([Gitconnect](https://www.gitconnect.dev/landing))<br>
+💬  Ask me about career changes in the product development space<br> --->
 💪  Founder @ [Gitconnect.dev](https://www.gitconnect.dev/landing) <br>
 📫  Find me @ [Linkedin](https://www.linkedin.com/in/danieltmcgee/) <br>
-🔭  I’m currently working on a portfolio building & sharing site for devs ([Gitconnect](https://www.gitconnect.dev/landing))<br>
-💬  Ask me about career changes in the product development space<br>
-⚡  Fun fact - whales evolved from hippos, ie went ocean -> land -> ocean. Nature is whack
+💬  Ask me about working in multiple product development disciplines (UX/PM/Dev) <br>
+⚡  Fun fact - whales evolved from hippos, ie went ocean -> land -> ocean. Nature is wild!
 
 
 ## 🌐 HMU:
