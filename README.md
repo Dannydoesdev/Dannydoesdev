@@ -28,13 +28,15 @@
 <!---
 <img width="375" alt="My logo" src="https://user-images.githubusercontent.com/50442868/197483135-674e54ee-222d-4772-be52-868a1b04d1a2.png">
 --->
-
+<!--- 
+🔭  I’m currently working on a portfolio building & sharing site for devs ([Gitconnect](https://www.gitconnect.dev/landing))<br>
+💬  Ask me about career changes in the product development space<br>
+--->
 <!---
 # 👋 Hi, I’m Danny
 --->
 <br>
-<!--- 🔭  I’m currently working on a portfolio building & sharing site for devs ([Gitconnect](https://www.gitconnect.dev/landing))<br>
-💬  Ask me about career changes in the product development space<br> --->
+
 💪  Founder @ [Gitconnect.dev](https://www.gitconnect.dev/landing) <br>
 📫  Find me @ [Linkedin](https://www.linkedin.com/in/danieltmcgee/) <br>
 💬  Ask me about working in multiple product development disciplines (UX/PM/Dev) <br>
